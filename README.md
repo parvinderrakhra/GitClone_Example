@@ -11,10 +11,10 @@ This is for Class #3, activity 2 (Git Clone)
 
 *this is italic*
 
-**this is bold*
+**this is bold**
 
 > "This is a Quote"
 
 'this is a (code)'
 
-This is a link to a 
+This is a link to a [Google](www.google.com)
