@@ -17,4 +17,4 @@ This is for Class #3, activity 2 (Git Clone)
 
 'this is a (code)'
 
-This is a link to a [Google](www.google.com)
+[This is a link to Github Activity #1](https://github.com/parvinderrakhra/Activity_1)
